@@ -1,0 +1,50 @@
+### Directories ###
+/bin/
+target/
+classes/
+META-INF/
+
+### OS Files ###
+.DS_Store
+
+*.class
+
+### Package Files ###
+*.jar
+*.war
+*.ear
+*.db
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+/out
+
+### GitPages ###
+*~
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
