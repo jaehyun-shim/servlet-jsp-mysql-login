@@ -13,10 +13,10 @@ public class DBUtil {
             return conn;
         else {
             try {
-                String url = "jdbc:mysql://shimdbinstance.cmpytcfduasf.ap-northeast-2.rds.amazonaws.com:3306/portfoliodb";
+                String url = "your-url";
                 String driver = "com.mysql.jdbc.Driver";
-                String username = "shimdbmaster";
-                String password = "!tla2995";
+                String username = "your-name";
+                String password = "your-password";
 
                 Class.forName(driver);
                 DriverManager.setLoginTimeout(3600);
