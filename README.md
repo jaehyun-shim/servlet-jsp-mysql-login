@@ -2,9 +2,20 @@
 ## 자바 서블릿 심플 웹페이지
  - 주요기능 : 반응형웹, 로그인, 회원가입, 회원정보목록(수정,삭제)
  - 사이트 이미지
- ![ex_screenshot](/resources/pc.png)
- 
- ![ex_screenshot](/resources/mobile.png)
+  > 로그인화면
+  ![ex_screenshot](/resources/login.png)
+  
+  > 회원가입화면
+  ![ex_screenshot](/resources/register.png)
+  
+  > 메인화면
+  ![ex_screenshot](/resources/main.png)
+  
+  > 회원정보목록
+  ![ex_screenshot](/resources/userList.png)
+  
+  > 모바일
+  ![ex_screenshot](/resources/mobile.png)
  
  - 폴더구조  
  
